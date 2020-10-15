@@ -12,7 +12,16 @@
 /* var text-decoration */
 /*--
 	Common Css
+
 --*/
+.title{
+    background-color:#fff;
+    overflow:hidden;
+    display:inline-block; 
+    padding:10px; 
+    font-weight:bold;
+    color:transparent;
+  }
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
