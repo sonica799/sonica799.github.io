@@ -23,7 +23,7 @@
     color:transparent;
   }
   span { 
-    background: url(http://www.color-hex.com/palettes/26323.png) -20px -20px repeat;
+    background:url("../img/unsplash.jpg") -20px -20px repeat;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     display:block;
