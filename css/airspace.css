@@ -28,14 +28,14 @@
       }
       .overlay-p{
 
-  background-color: white;
+  background-color: #000;
      background: rgba(255, 255, 255, 0.75);
         background-clip: content-box;
     height: fit-content;
     width: fit-content;
-  color: #000;
-  color: #000;
-  mix-blend-mode: screen;
+  color: #fff;
+  color: #fff;
+  mix-blend-mode: multiply;
   margin: 0;
 
       }
