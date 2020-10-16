@@ -16,7 +16,7 @@
 --*/
 .overlay-h1 {
   background-color: black;
-   background: rgba(255, 255, 255, 0.75);
+   background: rgba(0, 0, 0, 0.75);
       background-clip: content-box;
     height: fit-content;
     width: fit-content;
@@ -34,7 +34,6 @@
     height: fit-content;
     width: fit-content;
   color: #b29da1;
-  mix-blend-mode: multiply;
   margin: 0;
 
       }
