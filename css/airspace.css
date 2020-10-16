@@ -15,12 +15,12 @@
 
 --*/
 .overlay-h1 {
-  background-color: white;
+  background-color: black;
    background: rgba(255, 255, 255, 0.75);
       background-clip: content-box;
     height: fit-content;
     width: fit-content;
-  color: #000;
+  color: #cebabc;
 
   margin: 0;
 
@@ -28,13 +28,12 @@
       }
       .overlay-p{
 
-  background-color: #000;
+  background-color: black;
      background: rgba(0, 0, 0, 0.75);
         background-clip: content-box;
     height: fit-content;
     width: fit-content;
-  color: #fff;
-  color: #fff;
+  color: #b29da1;
   mix-blend-mode: multiply;
   margin: 0;
 
