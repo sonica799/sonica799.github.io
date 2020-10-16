@@ -22,22 +22,15 @@
 }
 .overlay-h1 {
   background-color: #fff;
-  color: #000;
-  mix-blend-mode: screen;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  padding: 16px;
-  border-radius: 8px;
-  font-size: 3em;
-  margin: 0;
-  opacity: 0.9;
+  color: transparent;
+  mix-blend-mode: normal;
+    box-shadow: 0 0 16px #000, 0 0 32px #000;
+
 }
 .overlay-p{
   mix-blend-mode: normal;
   color: transparent;
-  background: none;
+  background: #fff;
   box-shadow: 0 0 16px #000, 0 0 32px #000;
 }
 
