@@ -27,9 +27,8 @@
 
 }
 .overlay-p{
-  mix-blend-mode: screen;
   text-color: transparent;
-  background: #fff;
+  background: rgba(255, 255, 255, 255);
 
 }
 
