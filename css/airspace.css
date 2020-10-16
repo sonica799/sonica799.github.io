@@ -16,19 +16,20 @@
 --*/
 .overlay-h1 {
   background-color: white;
-   background: rgba(255, 255, 255, 0.5);
+   background: rgba(255, 255, 255, 0.75);
       background-clip: content-box;
     height: fit-content;
     width: fit-content;
   color: #000;
   mix-blend-mode: screen;
   margin: 0;
-  opacity: 0.4;
+
 
       }
       .overlay-p{
 
   background-color: white;
+     background: rgba(255, 255, 255, 0.75);
         background-clip: content-box;
     height: fit-content;
     width: fit-content;
@@ -36,7 +37,6 @@
   color: #000;
   mix-blend-mode: screen;
   margin: 0;
-  opacity: 0.9;
 
       }
 
