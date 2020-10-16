@@ -21,17 +21,17 @@
   background-size: cover;
 }
 .overlay-h1 {
-  background-color: #fff;
+  background: #fff;
   color: transparent;
   mix-blend-mode: normal;
-    box-shadow: 0 0 16px #000, 0 0 32px #000;
+
 
 }
 .overlay-p{
   mix-blend-mode: normal;
-  color: transparent;
+  text-color: transparent;
   background: #fff;
-  box-shadow: 0 0 16px #000, 0 0 32px #000;
+
 }
 
 body {
