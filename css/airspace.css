@@ -25,7 +25,7 @@
 }
 .overlay-p{
   background-color: #fff;
-  color: #000;
+  color: #fff;
   mix-blend-mode: multiply;
   position: absolute;
   padding: 16px;
