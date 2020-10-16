@@ -27,7 +27,7 @@
 
 }
 .overlay-p{
-  mix-blend-mode: normal;
+  mix-blend-mode: screen;
   text-color: transparent;
   background: #fff;
 
