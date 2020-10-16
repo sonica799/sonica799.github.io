@@ -96,7 +96,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
+  background: #2e292a;
   padding: 20px 0;
 }
 header .navbar {
@@ -114,7 +114,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #b29da1;
   padding: 10px 26px;
   font-size: 15px;
 }
