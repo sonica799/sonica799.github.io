@@ -24,9 +24,7 @@
   margin: 0;
   opacity: 0.9;
   box-shadow: 0 0 16px #000, 0 0 32px #000;
-  font-style: bold;
-  font-weight: 700;
-  font-size: 60px;"
+
       }
       .overlay-p{
 
@@ -39,10 +37,7 @@
   mix-blend-mode: screen;
   margin: 0;
   opacity: 0.9;
-  box-shadow: 0 0 16px #000, 0 0 32px #000;
-  font-style: bold;
-    font-weight: 500;
-  font-size: 40px;"
+
       }
 
 
