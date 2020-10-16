@@ -21,13 +21,16 @@
     height: fit-content;
     width: fit-content;
   color: #b29da1;
-  content: "\00a0 \00a0 ";
-
 
   margin: 0;
 
 
       }
+
+        .h1.spaced:before {
+  content: "\00a0 \00a0 ";
+}
+
       .overlay-p{
 
   background-color: black;
@@ -37,7 +40,6 @@
     width: fit-content;
   color: #b29da1;
   margin: 0;
-    content: "\00a0 \00a0 ";
 
       }
 
