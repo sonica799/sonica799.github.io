@@ -16,13 +16,12 @@
 --*/
 .overlay {
  background: url("../img/unsplash.jpg")no-repeat;
-  height: 100%;
   position: relative;
   background-size: cover;
 }
 .overlay-h1 {
   background: #fff;
-  color: transparent;
+  text-color: transparent;
   mix-blend-mode: normal;
 
 
