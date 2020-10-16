@@ -14,8 +14,11 @@
 	Common Css
 
 --*/
-.overlay {
+.overlay-h1 {
   background-color: white;
+      background-clip: content-box;
+    height: fit-content;
+    width: fit-content;
   color: #000;
   mix-blend-mode: screen;
   padding: 16px;
@@ -24,6 +27,26 @@
   opacity: 0.9;
   box-shadow: 0 0 16px #000, 0 0 32px #000;
   font-style: bold;
+  font-weight: 700;
+  font-size: 60px;"
+      }
+      .overlay-p{
+
+  background-color: white;
+        background-clip: content-box;
+    height: fit-content;
+    width: fit-content;
+  color: #000;
+  color: #000;
+  mix-blend-mode: screen;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 0;
+  opacity: 0.9;
+  box-shadow: 0 0 16px #000, 0 0 32px #000;
+  font-style: bold;
+    font-weight: 500;
+  font-size: 40px;"
       }
 
 
