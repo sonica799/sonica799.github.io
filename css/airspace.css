@@ -170,6 +170,8 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
+    background: #2e292a;
+    color: #b29da1;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -177,7 +179,6 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
   padding-top: 20px;
 }
 #intro .block img {
