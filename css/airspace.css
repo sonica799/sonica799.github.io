@@ -28,7 +28,7 @@
       }
 
         .spaced:before {
-  content: "\00a";
+  content: "  ";
 }
 
       .overlay-p{
