@@ -27,7 +27,7 @@
 
       }
 
-        .h1.spaced:before {
+        .spaced:before {
   content: "\00a0 \00a0 ";
 }
 
@@ -148,7 +148,7 @@ font header .navbar-default .navbar-nav li a:hover {
   opacity: 0.2;
 }
 #slider .block {
-  color: #E3E3E4;
+   color: #b29da1;
 }
 #slider .block h1 {
   font-family: 'Helvetica', sans-serif;
