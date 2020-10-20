@@ -133,7 +133,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-position: 10% 0%;
   position: relative;
-  height: 500px;
+  height: 50vw;
 }
 #slider:before {
   content: "";
