@@ -197,21 +197,22 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
+      background: #2e292a;
+    color: #b29da1;
 }
 #service .service-item {
   padding-bottom: 30px;
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+
 }
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+
 }
 #service .service-item p {
-  color: #888;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -227,7 +228,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 70px 0px;
   position: relative;
   text-align: center;
-  color: #fff;
+    background: #2e292a;
+    color: #b29da1;
 }
 #call-to-action:before {
   content: "";
@@ -254,9 +256,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #fff;
+    background: #2e292a;
+    color: #b29da1;
   font-size: 15px;
-  color: #333333;
   margin-top: 30px;
 }
 /*--
@@ -272,7 +274,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -283,6 +284,8 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
+      background: #2e292a;
+    color: #b29da1;
 }
 #feature h2 {
   font-size: 28px;
@@ -290,7 +293,6 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
@@ -303,15 +305,15 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #testimonial {
   padding: 100px 0;
+      background: #2e292a;
+    color: #b29da1;
 }
 #testimonial .block h2 {
   line-height: 27px;
-  color: #5C5C5C;
   padding-top: 110px;
 }
 #testimonial .block p {
   padding-top: 50px;
-  color: #7B7B7B;
 }
 #testimonial .counter-box li {
   width: 50%;
