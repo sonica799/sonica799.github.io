@@ -96,6 +96,7 @@ a:active {
 	Header Start
 --*/
 header {
+    width: 100vw;
   background: #000;
   padding: 20px 0;
 }
@@ -173,6 +174,7 @@ header .navbar-default .navbar-nav li a {
   padding: 100px 0;
   background:   #1a1a1a;
   color: #c28e98;
+    width: 100vw;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -200,6 +202,7 @@ header .navbar-default .navbar-nav li a {
   padding: 90px 0;
   background: #1a1a1a;
   color: #c28e98;
+    width: 100vw;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -229,6 +232,7 @@ header .navbar-default .navbar-nav li a {
   padding: 70px 0px;
   position: relative;
   text-align: center;
+    width: 100vw;
 
 }
 #call-to-action:before {
@@ -266,6 +270,7 @@ header .navbar-default .navbar-nav li a {
 --*/
 #feature {
   background: url("../img/blog-pic.jpg");
+    width: 100vw;
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -306,6 +311,7 @@ header .navbar-default .navbar-nav li a {
   padding: 100px 0;
   background: #1a1a1a;
   color: #c28e98;
+    width: 100vw;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -807,6 +813,7 @@ header .navbar-default .navbar-nav li a {
 	footer Start
 --*/
 footer {
+    width: 100vw;
     background: #000;
     color: #c28e98;
   text-align: center;
