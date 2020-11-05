@@ -134,6 +134,7 @@ header .navbar-default .navbar-nav li a {
   background-position: 10% 0%;
   position: relative;
   height: 40vw;
+  width: 100vw;
 }
 #slider:before {
   content: "";
