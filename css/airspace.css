@@ -170,8 +170,8 @@ header .navbar-default .navbar-nav li a {
 --*/
 #intro {
   padding: 100px 0;
-    background: #000;
-    color: #c28e98;
+  background:   #1a1a1a;
+  color: #c28e98;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -197,8 +197,8 @@ header .navbar-default .navbar-nav li a {
 #service {
   text-align: center;
   padding: 90px 0;
-      background: #000;
-    color: #c28e98;
+  background: #1a1a1a;
+  color: #c28e98;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -255,8 +255,8 @@ header .navbar-default .navbar-nav li a {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-    background: #000;
-    color: #c28e98;
+  background: #1a1a1a;
+  color: #c28e98;
   font-size: 15px;
   margin-top: 30px;
 }
@@ -303,8 +303,8 @@ header .navbar-default .navbar-nav li a {
 --*/
 #testimonial {
   padding: 100px 0;
-      background: #000;
-    color: #c28e98;
+  background: #1a1a1a;
+  color: #c28e98;
 }
 #testimonial .block h2 {
   line-height: 27px;
