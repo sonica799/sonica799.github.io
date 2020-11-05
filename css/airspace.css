@@ -170,7 +170,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
-    background: #2e292a;
+    background: #000;
     color: #c28e98;
 }
 #intro .block h2 {
@@ -197,7 +197,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
-      background: #2e292a;
+      background: #000;
     color: #c28e98;
 }
 #service .service-item {
@@ -255,7 +255,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-    background: #2e292a;
+    background: #000;
     color: #c28e98;
   font-size: 15px;
   margin-top: 30px;
@@ -294,7 +294,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #c28e98;
   color: #fff;
   padding: 10px 20px;
 }
@@ -303,7 +303,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #testimonial {
   padding: 100px 0;
-      background: #2e292a;
+      background: #000;
     color: #c28e98;
 }
 #testimonial .block h2 {
@@ -806,7 +806,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	footer Start
 --*/
 footer {
-    background: #2e292a;
+    background: #000;
     color: #c28e98;
   text-align: center;
   padding-top: 48px;
