@@ -133,7 +133,7 @@ header .navbar-default .navbar-nav li a {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 80px 0 120px 0;
   position: relative;
 }
 #slider:before {
