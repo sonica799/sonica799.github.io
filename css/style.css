@@ -20,7 +20,7 @@
   padding: 40px;
   width: 100%;
   min-height: 150px;
-  background-color: white;
+  background-color: #1a1a1a;
   border-bottom: 1px dotted #ddd;
 }
 
@@ -30,5 +30,5 @@
 }
 
 .post-area a:hover {
-  color: #0D0017;
+  color: #c28e98;
 }
