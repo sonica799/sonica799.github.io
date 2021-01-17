@@ -21,7 +21,7 @@
   width: 100%;
   min-height: 150px;
   background-color: #1a1a1a;
-  border-bottom: 1px dotted #ddd;
+  border-bottom: 1px;
 }
 
 .post-area a:link, .post-area a:visited {
