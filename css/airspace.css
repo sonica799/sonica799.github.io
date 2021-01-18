@@ -225,11 +225,11 @@ header .navbar-default .navbar-nav li a {
 #service .service-item h4 {
    padding-top: 20px;
    margin: 0;
-   color: #9C4800;
+   color: #1a1a1a;
 
 }
 #service .service-item p {
-   color: #888;
+   color: #1a1a1a;
    padding-top: 10px;
    margin: 0;
    font-size: 14px;
@@ -238,9 +238,10 @@ header .navbar-default .navbar-nav li a {
  #service  .btn-view-works {
    
    padding: 10px 20px;
-   text-align: center;background: #111419;
-   border: 1.5px solid #9C4800;
-   color: #9C4800;
+   text-align: center;
+   background: #1a1a1a;
+   border: 1.5px solid #1a1a1a;
+   color: #c28e98;
    margin-top: 20px;
  }
 /*--
