@@ -20,7 +20,7 @@
       background-clip: content-box;
     height: fit-content;
     width: fit-content;
-  color: #c28e98;
+  color: #d47d8e;
 
   margin: 0;
 
@@ -38,7 +38,7 @@
         background-clip: content-box;
     height: fit-content;
     width: fit-content;
-  color: #c28e98;
+  color: #d47d8e;
   margin: 0;
 
       }
@@ -87,7 +87,7 @@ a:active {
   text-transform: uppercase;
   font-size: 28px;
   font-weight: 600;
-    color: #c28e98;
+    color: #d47d8e;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
@@ -117,7 +117,7 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #c28e98;
+  color: #d47d8e;
   padding: 10px 26px;
   font-size: 1.2vw;
 }
@@ -266,7 +266,7 @@ header .navbar-default .navbar-nav li a {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #c28e98;
+  background: #d47d8e;
   opacity: 0.8;
 }
 #call-to-action h2 {
@@ -283,7 +283,7 @@ header .navbar-default .navbar-nav li a {
   padding: 15px 35px;
   border: none;
   background: #1a1a1a;
-  color: #c28e98;
+  color: #d47d8e;
   font-size: 15px;
   margin-top: 30px;
 }
@@ -322,7 +322,7 @@ header .navbar-default .navbar-nav li a {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #c28e98;
+  background: #d47d8e;
   color: #fff;
   padding: 10px 20px;
 }
@@ -332,7 +332,7 @@ header .navbar-default .navbar-nav li a {
 #testimonial {
   padding: 100px 0;
   background: #1a1a1a;
-  color: #c28e98;
+  color: #d47d8e;
     width: 100vw;
 }
 #testimonial .block h2 {
@@ -838,7 +838,7 @@ header .navbar-default .navbar-nav li a {
 footer {
     width: 100vw;
     background: #000;
-    color: #c28e98;
+    color: #d47d8e;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -849,7 +849,7 @@ footer p {
 
 }
 footer a {
-    color: #c28e98;
+    color: #d47d8e;
 }
 footer .footer-manu {
   padding-bottom: 25px;
