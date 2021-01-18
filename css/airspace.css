@@ -219,19 +219,30 @@ header .navbar-default .navbar-nav li a {
 }
 #service .service-item i {
   font-size: 60px;
+    color: #c28e98;
 
 }
 #service .service-item h4 {
-  padding-top: 20px;
-  margin: 0;
+   padding-top: 20px;
+   margin: 0;
+   color: #9C4800;
 
 }
 #service .service-item p {
-  padding-top: 10px;
-  margin: 0;
-  font-size: 14px;
-  line-height: 1.8;
+   color: #888;
+   padding-top: 10px;
+   margin: 0;
+   font-size: 14px;
+   line-height: 1.8;
 }
+ #service  .btn-view-works {
+   
+   padding: 10px 20px;
+   text-align: center;background: #111419;
+   border: 1.5px solid #9C4800;
+   color: #9C4800;
+   margin-top: 20px;
+ }
 /*--
 	call-to-action Start
 --*/
