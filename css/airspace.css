@@ -215,7 +215,7 @@ header .navbar-default .navbar-nav li a {
     padding-bottom: 30px;
       border-radius: 8px;
     border: 1px solid #c28e98;
-    background: #1a1a1a;
+    background: #c28e98;
 }
 #service .service-item-1 i {
   font-size: 60px;
@@ -239,9 +239,9 @@ header .navbar-default .navbar-nav li a {
    
    padding: 10px 20px;
    text-align: center;
-   background: #1a1a1a;
+   background: #c28e98;
    border: 1.5px solid #1a1a1a;
-   color: #c28e98;
+   color: #1a1a1a;
    margin-top: 20px;
  }
 /*--
