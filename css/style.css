@@ -26,9 +26,9 @@
 
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
-  color: #666;
+  color: #d47d8e;
 }
 
 .post-area a:hover {
-  color: #d47d8e;
+  color: #ebebeb;
 }

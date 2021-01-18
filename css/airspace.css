@@ -196,7 +196,7 @@ header .navbar-default .navbar-nav li a {
   padding-top: 20px;
 }
 #intro .block h1 {
-  color: #c28e98;
+  color: #d47d8e;
 }
  #intro  .btn-view-works {
    
@@ -343,6 +343,7 @@ header .navbar-default .navbar-nav li a {
     min-height: 150px;
     background-color: #1a1a1a;
     border-bottom: 1px dotted #ddd;
+    color: #666;
 }
 /*--
 	content Start
