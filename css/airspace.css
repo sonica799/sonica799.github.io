@@ -215,7 +215,7 @@ header .navbar-default .navbar-nav li a {
     padding-bottom: 30px;
       border-radius: 8px;
     border: 2px solid #d47d8e;
-    background: #262626;
+    background: #1a1a1a;
 }
 #service .service-item-1 i {
   font-size: 60px;
@@ -239,7 +239,7 @@ header .navbar-default .navbar-nav li a {
    
    padding: 10px 20px;
    text-align: center;
-   background: #262626;
+   background: #1a1a1a;
    border: 1.5px solid #d47d8e;
    color: #d47d8e;
    margin-top: 20px;
@@ -324,14 +324,15 @@ header .navbar-default .navbar-nav li a {
 }
 #feature .btn-view-works {
   background: #d47d8e;
-  color: #fff;
+  color: #1a1a1a;
   padding: 10px 20px;
+  border: 1.5px solid #1a1a1a;
 }
 .post-area {
     padding: 40px;
     width: 100%;
     min-height: 150px;
-    background-color: #262626;
+    background-color: #1a1a1a;
     border-bottom: 1px dotted #ddd;
 }
 /*--
