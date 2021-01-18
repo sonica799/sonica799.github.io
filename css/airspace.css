@@ -244,6 +244,7 @@ header .navbar-default .navbar-nav li a {
    color: #d47d8e;
    margin-top: 20px;
  }
+
 /*--
 	call-to-action Start
 --*/
@@ -325,6 +326,13 @@ header .navbar-default .navbar-nav li a {
   background: #d47d8e;
   color: #fff;
   padding: 10px 20px;
+}
+.post-area {
+    padding: 40px;
+    width: 100%;
+    min-height: 150px;
+    background-color: #1a1a1a;
+    border-bottom: 1px dotted #ddd;
 }
 /*--
 	content Start
