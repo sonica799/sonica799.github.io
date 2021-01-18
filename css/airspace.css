@@ -215,7 +215,7 @@ header .navbar-default .navbar-nav li a {
     padding-bottom: 30px;
       border-radius: 8px;
     border: 2px solid #d47d8e;
-    background: #333333;
+    background: #262626;
 }
 #service .service-item-1 i {
   font-size: 60px;
@@ -239,7 +239,7 @@ header .navbar-default .navbar-nav li a {
    
    padding: 10px 20px;
    text-align: center;
-   background: #333333;
+   background: #262626;
    border: 1.5px solid #d47d8e;
    color: #d47d8e;
    margin-top: 20px;
@@ -331,7 +331,7 @@ header .navbar-default .navbar-nav li a {
     padding: 40px;
     width: 100%;
     min-height: 150px;
-    background-color: #333333;
+    background-color: #262626;
     border-bottom: 1px dotted #ddd;
 }
 /*--
