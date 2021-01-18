@@ -217,18 +217,18 @@ header .navbar-default .navbar-nav li a {
     border: 1px solid #c28e98;
     background: #1a1a1a;
 }
-#service .service-item i {
+#service .service-item-1 i {
   font-size: 60px;
     color: #c28e98;
 
 }
-#service .service-item h4 {
+#service .service-item-1 h4 {
    padding-top: 20px;
    margin: 0;
    color: #1a1a1a;
 
 }
-#service .service-item p {
+#service .service-item-1 p {
    color: #1a1a1a;
    padding-top: 10px;
    margin: 0;
