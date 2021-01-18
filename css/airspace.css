@@ -14,6 +14,28 @@
 	Common Css
 
 --*/
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 .overlay-h1 {
   background-color: black;
    background: rgba(0, 0, 0, 0.75);
