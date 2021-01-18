@@ -146,12 +146,11 @@ header .navbar-default .navbar-nav li a {
   bottom: 0;
   right: 0;
   width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  height: 70%;
   opacity: 0.2;
 }
 #slider .block {
-   color: #c28e98;
+   color: #d47d8e;
 }
 #slider .block h1 {
   font-family: 'Helvetica', sans-serif;
