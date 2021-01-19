@@ -4,6 +4,22 @@ title: Blogs
 permalink: /Blogs/
 ---
 <!-- Slider Start -->
+<div class="header">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar" style="background-color: #d47d8e"></div>
+  </div>  
+</div>
+<script>
+// When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}
+</script>
 <section id="global-header">
   <div class="container">
     <div class="row">
