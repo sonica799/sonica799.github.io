@@ -46,11 +46,33 @@ Fossil fuels contain traces of sulphur compounds, and SO2 is produced when they 
 * **Carbon monoxide (CO):**
 CO is an odourless, tasteless and colourless gas produced by the incomplete burning of materials which contain carbon, including most transport fuels. CO is toxic, acting by reaction with haemoglobin and reducing its capacity for oxygen transport in the blood. Even in busy urban centres, CO concentrations rarely exceed health related standards.
 
-_src: ([https://www.airqualitynow.eu/pollution_home.php](https://www.airqualitynow.eu/pollution_home.php), [https://www.aqi.in/blog/aqi/](https://www.aqi.in/blog/aqi/), [https://climate.ncsu.edu/edu/Background](https://climate.ncsu.edu/edu/Background))_
-
-
 ### AQI Categories
 
 <img src="..\img\AQI\AQI Chart.png" style="width: 90vw; height: 45vw;" alt="AQI Chart">
 
+## Demonstration
 
+The values of parameters, AQI chart data and chart colours are dynamically rendered after every search. 
+
+* **Default City: Bangalore**
+
+<img src="..\img\AQI\Demo_1.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+
+* **Input City: Pune**
+
+<img src="..\img\AQI\Demo_2.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+
+* **Input City: Jaipur**
+
+<img src="..\img\AQI\Demo_3.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+
+* **Input City: Delhi**
+
+<img src="..\img\AQI\Demo_4.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+
+* **Learn More Button:**
+The Learn More is added to inform the users about information regarding the parameters and their significance.
+
+<img src="..\img\AQI\Demo_5.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+
+_src: ([https://www.airqualitynow.eu/pollution_home.php](https://www.airqualitynow.eu/pollution_home.php), [https://www.aqi.in/blog/aqi/](https://www.aqi.in/blog/aqi/), [https://climate.ncsu.edu/edu/Background](https://climate.ncsu.edu/edu/Background))_
