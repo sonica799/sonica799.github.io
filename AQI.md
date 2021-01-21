@@ -18,7 +18,7 @@ permalink: /AQI Dashboard/
 ### Flowchart
 
 
-![Flowchart](https://github.com/sonica799/AQI-Dashboard/blob/main/images/Dashboard%20Flowchart.png)
+![Flowchart](https://github.com/sonica799/sonica799.github.io/blob/master/img/AQI/Dashboard%20Flowchart.png)
 
 
 ### Air Pollutants Parameters
@@ -53,6 +53,6 @@ _src: ([https://www.airqualitynow.eu/pollution_home.php](https://www.airqualityn
 
 ### AQI Categories
 
-![AQI Chart](https://github.com/sonica799/AQI-Dashboard/blob/main/images/AQI%20Chart.png)
+![AQI Chart](https://github.com/sonica799/sonica799.github.io/blob/master/img/AQI/AQI%20Chart.png)
 
 

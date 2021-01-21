@@ -534,7 +534,7 @@ header .navbar-default .navbar-nav li a {
   border: 1px solid #ebebeb;
   display: inline-block;
   margin-bottom: 40px;
-  background-color: #d47d8e
+  background-color: #1a1a1a;
 
 }
 #portfolio-work .block .portfolio-menu ul li {
@@ -544,7 +544,7 @@ header .navbar-default .navbar-nav li a {
   font-size: 15px;
   line-height: 40px;
   font-weight: 600;
-  color: #1a1a1a;
+  color: #d47d8e;
   text-transform: capitalize;
   position: relative;
 }
