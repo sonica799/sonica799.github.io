@@ -18,6 +18,7 @@ permalink: /AQI Dashboard/
 ### Flowchart
 
 <img src="{{ site.baseurl }}/img/AQI/Dashboard Flowchart.png" style="width: 50vw; height: 50vw;"alt="">
+![Flowchart](https://github.com/sonica799/sonica799.github.io/blob/master/img/AQI/Dashboard%20Flowchart.png)
 
 
 ### Air Pollutants Parameters
