@@ -18,8 +18,6 @@ permalink: /AQI Dashboard/
 ### Flowchart
 
 <img src="..\img\AQI\Dashboard Flowchart.png" style="width: 50vw; height: 50vw;" alt="Dashboard Flowchart">
-<img style="border-radius: 10%; margin-top: 5.5vw;  width: 28vw; height: 28vw;" src="..\img\Sonica.png"  alt="Img">
-
 
 ### Air Pollutants Parameters
 
@@ -53,6 +51,6 @@ _src: ([https://www.airqualitynow.eu/pollution_home.php](https://www.airqualityn
 
 ### AQI Categories
 
-<img src="{{ site.baseurl }}/img/AQI/AQI Chart.png" style="width: 50vw; height: 50vw;"alt="">
+<img src="..\img\AQI\AQI Chart.png" style="width: 50vw; height: 50vw;" alt="AQI Chart">
 
 
