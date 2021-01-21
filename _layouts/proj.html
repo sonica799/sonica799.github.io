@@ -1,0 +1,42 @@
+---
+layout: page
+---
+<div class="header">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar" style="background-color: #d47d8e"></div>
+  </div>  
+</div>
+<script>
+// When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}
+</script>
+
+<div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro">
+    <div class="container">
+      <div class="row">
+        <div>
+          <div class="block">
+            <h1>{{ page.title }}</h1>
+         <!--   <div class="post-info-wrapper">
+              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+            </div> -->
+            <hr />
+            <p>{{ content }}</p>
+          </div>
+        </div><!-- .col-md-7 close -->
+      <p class="center-text">
+  <a href="{{ site.baseurl }}/Projects" class="btn btn-view-works" style="color: black; background-color: #d47d8e; border: none; ">Back to Projects</a>
+</p>
+      </div>
+    </div>
+  </section>
+</div>
