@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: AQI Dashboard
 permalink: /AQI Dashboard/
 ---
