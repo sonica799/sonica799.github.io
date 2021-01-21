@@ -17,7 +17,7 @@ permalink: /AQI Dashboard/
 
 ### Flowchart
 
-<img src="../img/AQI/Dashboard Flowchart.png" style="width: 50vw; height: 50vw;"alt="">
+<img src="..\img\AQI\Dashboard Flowchart.png" style="width: 50vw; height: 50vw;" alt="Dashboard Flowchart">
 <img style="border-radius: 10%; margin-top: 5.5vw;  width: 28vw; height: 28vw;" src="..\img\Sonica.png"  alt="Img">
 
 
