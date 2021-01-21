@@ -3,9 +3,16 @@ layout: proj
 title: AQI Dashboard
 permalink: /AQI Dashboard/
 ---
+## Introduction
+
+A dashboard developed and designed to display Climate Change Parameters:- Temperature (in C), Relative Humidity, PM 10, PM 2.5, O3, NO2, SO2, and CO. Air Quality Index (AQI) is displayed via a radial chart.
+
+**Check it out at [nexLOOP](https://nexloop.in)**
+
 ## Technical Details
 
 ### Libraries and Dependencies
+
 **1. ReactJS:** This open source JavaScript library provides us with an attractive UI and easily integrable code.
 
 **2. Axios:** It is a promise-based HTTP client that makes HTTP requests to fetch data dynamically from the API.
@@ -56,23 +63,27 @@ The values of parameters, AQI chart data and chart colours are dynamically rende
 
 * **Default City: Bangalore**
 
-<img src="..\img\AQI\Demo_1.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+<img src="..\img\AQI\Demo_1.jpg" style="width: 90vw; height: 40vw;" alt="AQI Demo">
+
 
 * **Input City: Pune**
 
-<img src="..\img\AQI\Demo_2.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+<img src="..\img\AQI\Demo_2.jpg" style="width: 90vw; height: 40vw;" alt="AQI Demo">
+
 
 * **Input City: Jaipur**
 
 <img src="..\img\AQI\Demo_3.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
 
+
 * **Input City: Delhi**
 
-<img src="..\img\AQI\Demo_4.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+<img src="..\img\AQI\Demo_4.jpg" style="width: 90vw; height: 40vw;" alt="AQI Demo">
+
 
 * **Learn More Button:**
 The Learn More is added to inform the users about information regarding the parameters and their significance.
 
-<img src="..\img\AQI\Demo_5.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+<img src="..\img\AQI\Demo_5.jpg" style="width: 90vw; height: 40vw;" alt="AQI Demo">
 
 _src: ([https://www.airqualitynow.eu/pollution_home.php](https://www.airqualitynow.eu/pollution_home.php), [https://www.aqi.in/blog/aqi/](https://www.aqi.in/blog/aqi/), [https://climate.ncsu.edu/edu/Background](https://climate.ncsu.edu/edu/Background))_
