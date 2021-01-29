@@ -12,12 +12,12 @@ They have introduced a unique service that allows customers to rent games on an 
 
 ### Product Details Page
 
-<img src="..\img\Delta\W_1.png" style="width: 60vw; height: 50vw;" alt="product">
+<img src="..\img\Delta\W_1.png" style="width: 60vw; height: 35vw;" class="center" alt="product">
 
 ### Cart Page
 
-<img src="..\img\Delta\W_2.png" style="width: 60vw; height: 50vw;" alt="cart">
+<img src="..\img\Delta\W_2.png" style="width: 58vw; height: 50vw;" class="center" alt="cart">
 
 ### Checkout Page
 
-<img src="..\img\Delta\W_3.png" style="width: 60vw; height: 50vw;" alt="Checkout">
+<img src="..\img\Delta\W_3.png" style="width: 60vw; height: 85vw;" class="center" alt="Checkout">

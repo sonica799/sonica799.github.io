@@ -73,7 +73,7 @@ The values of parameters, AQI chart data and chart colours are dynamically rende
 
 * **Input City: Jaipur**
 
-<img src="..\img\AQI\Demo_3.jpg" style="width: 90vw; height: 45vw;" alt="AQI Demo">
+<img src="..\img\AQI\Demo_3.jpg" style="width: 90vw; height: 41vw;" alt="AQI Demo">
 
 
 * **Input City: Delhi**

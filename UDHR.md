@@ -5,6 +5,7 @@ permalink: /UDHR/
 ---
 ## Paper published in Springer Book Series
 
+<br>
 **Check it out at [Springer](https://doi.org/10.1007/978-981-15-6634-9_44)**
 
 ## Abstract

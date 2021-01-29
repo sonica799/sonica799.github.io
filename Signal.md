@@ -36,5 +36,4 @@ The project uses Arduino Genuino Uno microcontroller, a sound sensor and simple 
 
 4. [Arduino](https://www.arduino.cc/reference/en/)
 
-5. [Chris Dahms, “MicrocontrollersAndMore/OpenCV_3_ KNN_Character_Recognition_Python,2015,Figure 8]
-(https://www.github.com)
+5. [Chris Dahms, “MicrocontrollersAndMore/OpenCV_3_ KNN_Character_Recognition_Python,2015,Figure 8](https://www.github.com)
