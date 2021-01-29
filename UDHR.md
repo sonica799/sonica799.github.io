@@ -13,7 +13,6 @@ permalink: /UDHR/
 The healthcare domain is always upgrading itself in order to provide better care. The use of digital media for medical purposes has been on the rise. Naturally, these methods are being used to store and retrieve medical records. These records are widely known as electronic health records. The proposed system, Unified Decentralized Health Repository (UDHR) is inspired by Electronic Health Records (EHR). The project aims to integrate and digitize medical records. It also aims to provide wellness-oriented treatment to patients. Earlier the goal of the medical community was to provide the traditional illness-oriented treatment. The innovativeness in the system lies within the blockchain. It is modified to cater to the needs for security and data searching efficiency. Using natural language processing, text summarization is achieved for medical records. A summarized document is generated at the end. It is hashed to attain compression.
 
 ## References
-<br>
 
 1. [Shahnaz, A., Qamar, U., Khalid, A.: Using blockchain for electronic health records. IEEE Access 7, 147782–147795 (2019)](https://doi.org/10.1109/ACCESS.2019.2946373)
 
