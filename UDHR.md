@@ -1,6 +1,6 @@
 ---
 layout: proj
-title: UDHR
+title: UDHR- Unified Decentralized Health Repository
 permalink: /UDHR/
 ---
 ## Paper published in Springer Book Series
